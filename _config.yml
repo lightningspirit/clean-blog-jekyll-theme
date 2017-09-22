@@ -1,0 +1,32 @@
+# Site settings
+title: Clean Blog
+header-img: assets/images/home-bg.jpg
+email: lightningspirit@gmail.com
+copyright_name: lightningspirit
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "https://lightningspirit.github.io"
+twitter_username: lightningspirit
+github_username: lightningspirit
+facebook_username: lightningspirit
+email_username: lightningspirit+blog@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 2
+sass:
+  style: :compressed
+exclude: 
+  - README.md
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
