@@ -1,15 +1,20 @@
 # Site settings
 title: Clean Blog
 header-img: assets/images/home-bg.jpg
-email: lightningspirit@gmail.com
-copyright_name: lightningspirit
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: lightningspirit+blog@gmail.com
+copyright_name: "clean blog"
+description: >
+  Write your site description here. 
+  It will be used as your sites meta description as well!
 baseurl: ""
-url: "https://lightningspirit.github.io"
+url: ""
 twitter_username: lightningspirit
 github_username: lightningspirit
 facebook_username: lightningspirit
 email_username: lightningspirit+blog@gmail.com
+
+# Profile
+avatar: assets/images/profile.jpg
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
